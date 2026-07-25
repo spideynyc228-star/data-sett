@@ -2,7 +2,7 @@
   "seed": 20260725,
   "sessions": [
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0001.json",
+      "file": "dialogs/session_0001.json",
       "estimated_tokens": 77429,
       "characters": 309717,
       "scenario_type": "Генерация текста и документов",
@@ -10,7 +10,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0002.json",
+      "file": "dialogs/session_0002.json",
       "estimated_tokens": 77207,
       "characters": 308828,
       "scenario_type": "Генерация текста и документов",
@@ -18,7 +18,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0003.json",
+      "file": "dialogs/session_0003.json",
       "estimated_tokens": 75527,
       "characters": 302109,
       "scenario_type": "Поиск и сбор информации",
@@ -26,7 +26,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0004.json",
+      "file": "dialogs/session_0004.json",
       "estimated_tokens": 80449,
       "characters": 321796,
       "scenario_type": "Поиск и сбор информации",
@@ -34,7 +34,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0005.json",
+      "file": "dialogs/session_0005.json",
       "estimated_tokens": 77015,
       "characters": 308060,
       "scenario_type": "Анализ данных и отчетность",
@@ -42,7 +42,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0006.json",
+      "file": "dialogs/session_0006.json",
       "estimated_tokens": 77231,
       "characters": 308924,
       "scenario_type": "Анализ данных и отчетность",
@@ -50,7 +50,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0007.json",
+      "file": "dialogs/session_0007.json",
       "estimated_tokens": 77564,
       "characters": 310257,
       "scenario_type": "Работа с задачами и проектами",
@@ -58,7 +58,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0008.json",
+      "file": "dialogs/session_0008.json",
       "estimated_tokens": 78598,
       "characters": 314390,
       "scenario_type": "Работа с задачами и проектами",
@@ -66,7 +66,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0009.json",
+      "file": "dialogs/session_0009.json",
       "estimated_tokens": 77153,
       "characters": 308613,
       "scenario_type": "Управление коммуникациями",
@@ -74,7 +74,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0010.json",
+      "file": "dialogs/session_0010.json",
       "estimated_tokens": 74006,
       "characters": 296023,
       "scenario_type": "Управление коммуникациями",
@@ -82,7 +82,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0011.json",
+      "file": "dialogs/session_0011.json",
       "estimated_tokens": 67229,
       "characters": 268917,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -90,7 +90,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0012.json",
+      "file": "dialogs/session_0012.json",
       "estimated_tokens": 68440,
       "characters": 273761,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -98,7 +98,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0013.json",
+      "file": "dialogs/session_0013.json",
       "estimated_tokens": 65531,
       "characters": 262125,
       "scenario_type": "Планирование и календарь",
@@ -106,7 +106,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0014.json",
+      "file": "dialogs/session_0014.json",
       "estimated_tokens": 70859,
       "characters": 283435,
       "scenario_type": "Планирование и календарь",
@@ -114,7 +114,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0015.json",
+      "file": "dialogs/session_0015.json",
       "estimated_tokens": 71462,
       "characters": 285846,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -122,7 +122,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0016.json",
+      "file": "dialogs/session_0016.json",
       "estimated_tokens": 68230,
       "characters": 272921,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -130,7 +130,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0017.json",
+      "file": "dialogs/session_0017.json",
       "estimated_tokens": 70691,
       "characters": 282764,
       "scenario_type": "Обучение и объяснение",
@@ -138,7 +138,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0018.json",
+      "file": "dialogs/session_0018.json",
       "estimated_tokens": 70015,
       "characters": 280059,
       "scenario_type": "Обучение и объяснение",
@@ -146,7 +146,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0019.json",
+      "file": "dialogs/session_0019.json",
       "estimated_tokens": 69210,
       "characters": 276838,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -154,7 +154,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0020.json",
+      "file": "dialogs/session_0020.json",
       "estimated_tokens": 70472,
       "characters": 281888,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -162,7 +162,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0021.json",
+      "file": "dialogs/session_0021.json",
       "estimated_tokens": 68842,
       "characters": 275368,
       "scenario_type": "Генерация текста и документов",
@@ -170,7 +170,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0022.json",
+      "file": "dialogs/session_0022.json",
       "estimated_tokens": 74487,
       "characters": 297948,
       "scenario_type": "Генерация текста и документов",
@@ -178,7 +178,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0023.json",
+      "file": "dialogs/session_0023.json",
       "estimated_tokens": 66902,
       "characters": 267606,
       "scenario_type": "Поиск и сбор информации",
@@ -186,7 +186,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0024.json",
+      "file": "dialogs/session_0024.json",
       "estimated_tokens": 71969,
       "characters": 287877,
       "scenario_type": "Поиск и сбор информации",
@@ -194,7 +194,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0025.json",
+      "file": "dialogs/session_0025.json",
       "estimated_tokens": 71802,
       "characters": 287207,
       "scenario_type": "Анализ данных и отчетность",
@@ -202,7 +202,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0026.json",
+      "file": "dialogs/session_0026.json",
       "estimated_tokens": 66475,
       "characters": 265899,
       "scenario_type": "Анализ данных и отчетность",
@@ -210,7 +210,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0027.json",
+      "file": "dialogs/session_0027.json",
       "estimated_tokens": 70005,
       "characters": 280021,
       "scenario_type": "Работа с задачами и проектами",
@@ -218,7 +218,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0028.json",
+      "file": "dialogs/session_0028.json",
       "estimated_tokens": 71022,
       "characters": 284090,
       "scenario_type": "Работа с задачами и проектами",
@@ -226,7 +226,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0029.json",
+      "file": "dialogs/session_0029.json",
       "estimated_tokens": 70704,
       "characters": 282817,
       "scenario_type": "Управление коммуникациями",
@@ -234,7 +234,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0030.json",
+      "file": "dialogs/session_0030.json",
       "estimated_tokens": 70132,
       "characters": 280526,
       "scenario_type": "Управление коммуникациями",
@@ -242,7 +242,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0031.json",
+      "file": "dialogs/session_0031.json",
       "estimated_tokens": 72304,
       "characters": 289218,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -250,7 +250,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0032.json",
+      "file": "dialogs/session_0032.json",
       "estimated_tokens": 71218,
       "characters": 284870,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -258,7 +258,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0033.json",
+      "file": "dialogs/session_0033.json",
       "estimated_tokens": 71416,
       "characters": 285664,
       "scenario_type": "Планирование и календарь",
@@ -266,7 +266,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0034.json",
+      "file": "dialogs/session_0034.json",
       "estimated_tokens": 71824,
       "characters": 287297,
       "scenario_type": "Планирование и календарь",
@@ -274,7 +274,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0035.json",
+      "file": "dialogs/session_0035.json",
       "estimated_tokens": 69449,
       "characters": 277797,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -282,7 +282,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0036.json",
+      "file": "dialogs/session_0036.json",
       "estimated_tokens": 69402,
       "characters": 277606,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -290,7 +290,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0037.json",
+      "file": "dialogs/session_0037.json",
       "estimated_tokens": 69541,
       "characters": 278163,
       "scenario_type": "Обучение и объяснение",
@@ -298,7 +298,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0038.json",
+      "file": "dialogs/session_0038.json",
       "estimated_tokens": 68114,
       "characters": 272457,
       "scenario_type": "Обучение и объяснение",
@@ -306,7 +306,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0039.json",
+      "file": "dialogs/session_0039.json",
       "estimated_tokens": 70120,
       "characters": 280478,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -314,7 +314,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0040.json",
+      "file": "dialogs/session_0040.json",
       "estimated_tokens": 70221,
       "characters": 280885,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -322,7 +322,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0041.json",
+      "file": "dialogs/session_0041.json",
       "estimated_tokens": 71214,
       "characters": 284858,
       "scenario_type": "Генерация текста и документов",
@@ -330,7 +330,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0042.json",
+      "file": "dialogs/session_0042.json",
       "estimated_tokens": 70508,
       "characters": 282034,
       "scenario_type": "Генерация текста и документов",
@@ -338,7 +338,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0043.json",
+      "file": "dialogs/session_0043.json",
       "estimated_tokens": 66141,
       "characters": 264563,
       "scenario_type": "Поиск и сбор информации",
@@ -346,7 +346,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0044.json",
+      "file": "dialogs/session_0044.json",
       "estimated_tokens": 67476,
       "characters": 269902,
       "scenario_type": "Поиск и сбор информации",
@@ -354,7 +354,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0045.json",
+      "file": "dialogs/session_0045.json",
       "estimated_tokens": 70073,
       "characters": 280293,
       "scenario_type": "Анализ данных и отчетность",
@@ -362,7 +362,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0046.json",
+      "file": "dialogs/session_0046.json",
       "estimated_tokens": 69186,
       "characters": 276744,
       "scenario_type": "Анализ данных и отчетность",
@@ -370,7 +370,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0047.json",
+      "file": "dialogs/session_0047.json",
       "estimated_tokens": 68862,
       "characters": 275446,
       "scenario_type": "Работа с задачами и проектами",
@@ -378,7 +378,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0048.json",
+      "file": "dialogs/session_0048.json",
       "estimated_tokens": 70264,
       "characters": 281055,
       "scenario_type": "Работа с задачами и проектами",
@@ -386,7 +386,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0049.json",
+      "file": "dialogs/session_0049.json",
       "estimated_tokens": 71760,
       "characters": 287039,
       "scenario_type": "Управление коммуникациями",
@@ -394,7 +394,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0050.json",
+      "file": "dialogs/session_0050.json",
       "estimated_tokens": 70372,
       "characters": 281486,
       "scenario_type": "Управление коммуникациями",
@@ -402,7 +402,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0051.json",
+      "file": "dialogs/session_0051.json",
       "estimated_tokens": 73985,
       "characters": 295940,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -410,7 +410,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0052.json",
+      "file": "dialogs/session_0052.json",
       "estimated_tokens": 68864,
       "characters": 275454,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -418,7 +418,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0053.json",
+      "file": "dialogs/session_0053.json",
       "estimated_tokens": 67939,
       "characters": 271757,
       "scenario_type": "Планирование и календарь",
@@ -426,7 +426,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0054.json",
+      "file": "dialogs/session_0054.json",
       "estimated_tokens": 72208,
       "characters": 288832,
       "scenario_type": "Планирование и календарь",
@@ -434,7 +434,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0055.json",
+      "file": "dialogs/session_0055.json",
       "estimated_tokens": 72232,
       "characters": 288929,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -442,7 +442,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0056.json",
+      "file": "dialogs/session_0056.json",
       "estimated_tokens": 70922,
       "characters": 283689,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -450,7 +450,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0057.json",
+      "file": "dialogs/session_0057.json",
       "estimated_tokens": 70277,
       "characters": 281107,
       "scenario_type": "Обучение и объяснение",
@@ -458,7 +458,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0058.json",
+      "file": "dialogs/session_0058.json",
       "estimated_tokens": 68088,
       "characters": 272350,
       "scenario_type": "Обучение и объяснение",
@@ -466,7 +466,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0059.json",
+      "file": "dialogs/session_0059.json",
       "estimated_tokens": 68682,
       "characters": 274727,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -474,7 +474,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0060.json",
+      "file": "dialogs/session_0060.json",
       "estimated_tokens": 67903,
       "characters": 271613,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -482,7 +482,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0061.json",
+      "file": "dialogs/session_0061.json",
       "estimated_tokens": 67930,
       "characters": 271721,
       "scenario_type": "Генерация текста и документов",
@@ -490,7 +490,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0062.json",
+      "file": "dialogs/session_0062.json",
       "estimated_tokens": 72313,
       "characters": 289252,
       "scenario_type": "Генерация текста и документов",
@@ -498,7 +498,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0063.json",
+      "file": "dialogs/session_0063.json",
       "estimated_tokens": 67024,
       "characters": 268096,
       "scenario_type": "Поиск и сбор информации",
@@ -506,7 +506,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0064.json",
+      "file": "dialogs/session_0064.json",
       "estimated_tokens": 67202,
       "characters": 268808,
       "scenario_type": "Поиск и сбор информации",
@@ -514,7 +514,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0065.json",
+      "file": "dialogs/session_0065.json",
       "estimated_tokens": 69416,
       "characters": 277665,
       "scenario_type": "Анализ данных и отчетность",
@@ -522,7 +522,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0066.json",
+      "file": "dialogs/session_0066.json",
       "estimated_tokens": 67125,
       "characters": 268499,
       "scenario_type": "Анализ данных и отчетность",
@@ -530,7 +530,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0067.json",
+      "file": "dialogs/session_0067.json",
       "estimated_tokens": 69215,
       "characters": 276861,
       "scenario_type": "Работа с задачами и проектами",
@@ -538,7 +538,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0068.json",
+      "file": "dialogs/session_0068.json",
       "estimated_tokens": 68016,
       "characters": 272062,
       "scenario_type": "Работа с задачами и проектами",
@@ -546,7 +546,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0069.json",
+      "file": "dialogs/session_0069.json",
       "estimated_tokens": 69385,
       "characters": 277540,
       "scenario_type": "Управление коммуникациями",
@@ -554,7 +554,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0070.json",
+      "file": "dialogs/session_0070.json",
       "estimated_tokens": 69577,
       "characters": 278309,
       "scenario_type": "Управление коммуникациями",
@@ -562,7 +562,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0071.json",
+      "file": "dialogs/session_0071.json",
       "estimated_tokens": 70607,
       "characters": 282427,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -570,7 +570,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0072.json",
+      "file": "dialogs/session_0072.json",
       "estimated_tokens": 71473,
       "characters": 285892,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -578,7 +578,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0073.json",
+      "file": "dialogs/session_0073.json",
       "estimated_tokens": 67771,
       "characters": 271083,
       "scenario_type": "Планирование и календарь",
@@ -586,7 +586,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0074.json",
+      "file": "dialogs/session_0074.json",
       "estimated_tokens": 71545,
       "characters": 286179,
       "scenario_type": "Планирование и календарь",
@@ -594,7 +594,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0075.json",
+      "file": "dialogs/session_0075.json",
       "estimated_tokens": 71887,
       "characters": 287548,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -602,7 +602,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0076.json",
+      "file": "dialogs/session_0076.json",
       "estimated_tokens": 72207,
       "characters": 288827,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -610,7 +610,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0077.json",
+      "file": "dialogs/session_0077.json",
       "estimated_tokens": 70377,
       "characters": 281509,
       "scenario_type": "Обучение и объяснение",
@@ -618,7 +618,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0078.json",
+      "file": "dialogs/session_0078.json",
       "estimated_tokens": 65057,
       "characters": 260228,
       "scenario_type": "Обучение и объяснение",
@@ -626,7 +626,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0079.json",
+      "file": "dialogs/session_0079.json",
       "estimated_tokens": 70835,
       "characters": 283339,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -634,7 +634,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0080.json",
+      "file": "dialogs/session_0080.json",
       "estimated_tokens": 65336,
       "characters": 261343,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -642,7 +642,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0081.json",
+      "file": "dialogs/session_0081.json",
       "estimated_tokens": 68193,
       "characters": 272773,
       "scenario_type": "Генерация текста и документов",
@@ -650,7 +650,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0082.json",
+      "file": "dialogs/session_0082.json",
       "estimated_tokens": 69873,
       "characters": 279491,
       "scenario_type": "Генерация текста и документов",
@@ -658,7 +658,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0083.json",
+      "file": "dialogs/session_0083.json",
       "estimated_tokens": 68006,
       "characters": 272023,
       "scenario_type": "Поиск и сбор информации",
@@ -666,7 +666,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0084.json",
+      "file": "dialogs/session_0084.json",
       "estimated_tokens": 66102,
       "characters": 264408,
       "scenario_type": "Поиск и сбор информации",
@@ -674,7 +674,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0085.json",
+      "file": "dialogs/session_0085.json",
       "estimated_tokens": 69698,
       "characters": 278792,
       "scenario_type": "Анализ данных и отчетность",
@@ -682,7 +682,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0086.json",
+      "file": "dialogs/session_0086.json",
       "estimated_tokens": 72350,
       "characters": 289400,
       "scenario_type": "Анализ данных и отчетность",
@@ -690,7 +690,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0087.json",
+      "file": "dialogs/session_0087.json",
       "estimated_tokens": 67648,
       "characters": 270593,
       "scenario_type": "Работа с задачами и проектами",
@@ -698,7 +698,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0088.json",
+      "file": "dialogs/session_0088.json",
       "estimated_tokens": 71704,
       "characters": 286815,
       "scenario_type": "Работа с задачами и проектами",
@@ -706,7 +706,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0089.json",
+      "file": "dialogs/session_0089.json",
       "estimated_tokens": 70959,
       "characters": 283835,
       "scenario_type": "Управление коммуникациями",
@@ -714,7 +714,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0090.json",
+      "file": "dialogs/session_0090.json",
       "estimated_tokens": 62910,
       "characters": 251641,
       "scenario_type": "Управление коммуникациями",
@@ -722,7 +722,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0091.json",
+      "file": "dialogs/session_0091.json",
       "estimated_tokens": 72241,
       "characters": 288963,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -730,7 +730,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0092.json",
+      "file": "dialogs/session_0092.json",
       "estimated_tokens": 69440,
       "characters": 277762,
       "scenario_type": "Помощь с кодом и техническими вопросами",
@@ -738,7 +738,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0093.json",
+      "file": "dialogs/session_0093.json",
       "estimated_tokens": 68713,
       "characters": 274852,
       "scenario_type": "Планирование и календарь",
@@ -746,7 +746,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0094.json",
+      "file": "dialogs/session_0094.json",
       "estimated_tokens": 70852,
       "characters": 283407,
       "scenario_type": "Планирование и календарь",
@@ -754,7 +754,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0095.json",
+      "file": "dialogs/session_0095.json",
       "estimated_tokens": 73710,
       "characters": 294839,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -762,7 +762,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0096.json",
+      "file": "dialogs/session_0096.json",
       "estimated_tokens": 70553,
       "characters": 282211,
       "scenario_type": "Автоматизация рабочих процессов",
@@ -770,7 +770,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0097.json",
+      "file": "dialogs/session_0097.json",
       "estimated_tokens": 70424,
       "characters": 281696,
       "scenario_type": "Обучение и объяснение",
@@ -778,7 +778,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0098.json",
+      "file": "dialogs/session_0098.json",
       "estimated_tokens": 65051,
       "characters": 260203,
       "scenario_type": "Обучение и объяснение",
@@ -786,7 +786,7 @@
       "is_non_work": false
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0099.json",
+      "file": "dialogs/session_0099.json",
       "estimated_tokens": 70016,
       "characters": 280062,
       "scenario_type": "Общие вопросы и нерабочие запросы",
@@ -794,7 +794,7 @@
       "is_non_work": true
     },
     {
-      "file": "/Users/marykhomyakova/Documents/крок/dataset/dialogs/session_0100.json",
+      "file": "dialogs/session_0100.json",
       "estimated_tokens": 66401,
       "characters": 265603,
       "scenario_type": "Общие вопросы и нерабочие запросы",
